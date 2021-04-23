@@ -1,2 +1,2 @@
 # PocketCMT
-informações sobre Charcot Marie Tooth
+Informações sobre a doença de Charcot Marie Tooth
