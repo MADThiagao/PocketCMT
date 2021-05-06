@@ -1,0 +1,84 @@
+[
+    {
+        "GenericName":"",  
+        "BrandName": [
+            {
+                "Name": "",
+                "Manufacturer": [""]
+            }
+        ],
+        "LabeledUses": [""],
+        "Risk":""
+    },
+    {
+        "GenericName":"Vincristine sulfate",  
+        "BrandName": [ 
+            {
+                "Name": "Oncovin", 
+                "Manufacturer":["Eli Lilly"]
+            },
+            {
+                "Name": "Vincasar PFS",
+                "Manufacturer": ["Pfizer"]    
+            },
+            {
+                "Name": "Vincristine Sulfate Injection",
+                "Manufacturer": ["Abbot", "Mayne"]
+            }
+        ],
+        "LabeledUses": ["Acute leukemia", "malignant lymphomas and carcinomas"],
+        "Risk":"Definite High Risk"
+    },
+    {
+        "GenericName":"Cabazitaxel",  
+        "BrandName": [
+            {
+                "Name": "Jevtana",
+                "Manufacturer": ["Sanofi-Aventis"]
+            }
+        ],
+        "LabeledUses": ["Advanced prostate cancer"],
+        "Risk":"Definite High Risk"
+    },
+    {
+        "GenericName":"Docetaxel",  
+        "BrandName": [
+            {
+                "Name": "Taxotere",
+                "Manufacturer": ["Sanofi-Aventis"]
+            }
+        ],
+        "LabeledUses": ["Breast and prostatecarcinomas",  "lung cancer"],
+        "Risk":"Definite High Risk"
+    },
+    {
+        "GenericName":"Paclitaxel",  
+        "BrandName": [
+            {
+                "Name": "Onxol",
+                "Manufacturer": ["IVAX"]
+            },
+            {
+                "Name": "Paclitaxel Injection",
+                "Manufacturer": ["UDL", "Bedford"]
+            },
+            {
+                "Name": "Taxol",
+                "Manufacturer": ["Bristol-Myers Squibb"]
+            }
+        ],
+        "LabeledUses": ["Breast, lung, ovarianand esophagealcarcinomas"],
+        "Risk":"Definite High Risk"
+    },
+    {
+        "GenericName":"Taxols",  
+        "BrandName": [
+            {
+                "Name": "",
+                "Manufacturer": [""]
+            }
+        ],
+        "LabeledUses": [""],
+        "Risk":"Definite High Risk"
+    }
+]
